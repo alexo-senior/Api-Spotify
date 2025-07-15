@@ -1,0 +1,15 @@
+# Entorno virtual
+venv/
+
+# Archivos de configuración privados
+.env
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos del sistema operativo (por si usas VSCode o Jupyter)
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
